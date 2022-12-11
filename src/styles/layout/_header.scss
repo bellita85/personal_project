@@ -7,7 +7,7 @@ h1 {
 }
 
 .header {
-  background-image: url('./../images/eventomvl.png');
+  background-image: url('./../../images/eventomvl.png');
   background-size: cover;
   width: 100vw;
 
@@ -71,7 +71,7 @@ h1 {
 
 @media all and (min-width: 768px) {
   .header {
-    background-image: url('./../images/fondoevento.png');
+    background-image: url('./../../images/fondoevento.png');
     background-size: cover;
     // background-position: 10%;
     width: 100vw;
