@@ -2,10 +2,10 @@ const footer = () => {
 
     return (
         <footer className="footer">
-        <a title="Home" className="footer__flecha" //href=./index.html#enlace_header//> 
-        >
+        {/* <a title="Home" className="footer__flecha" //href=./index.html#enlace_header//> 
+        > */}
         {/* // <img src="image.png" alt=""> */}
-        </a>
+        {/* </a> */}
         <section className="footer__section">
     
     
